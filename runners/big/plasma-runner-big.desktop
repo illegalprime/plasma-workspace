@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Large Type
+Comment=Displays text in huge font to be seen across the room
+X-KDE-ServiceTypes=Plasma/Runner
+Type=Service
+Icon=system-run
+X-KDE-Library=krunner_big
+X-Plasma-RunnerPhase=first
+X-KDE-PluginInfo-Author=Plasma Team
+X-KDE-PluginInfo-Email=plasma-devel@kde.org
+X-KDE-PluginInfo-Name=shell
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=LGPL
+X-Plasma-AdvertiseSingleRunnerQueryMode=true
+X-KDE-PluginInfo-EnabledByDefault=true
